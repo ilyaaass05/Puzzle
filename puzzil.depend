@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719349679 source:c:\users\hp\desktop\my phone\hello werld\puzzil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
